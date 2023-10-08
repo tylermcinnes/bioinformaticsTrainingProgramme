@@ -1,0 +1,23 @@
+---
+title: "bioinformaticsTrainingProgramme"
+---
+
+## Overview of the Bioinformatics Training Programme
+
+The training programme, an initiative out of Genomics Aotearoa, aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.
+
+Training is offered through a portfolio of free, interactive workshops instructed by experts in the field. Workshop material ranges from basic coding for beginners to highly advanced, specialised workflows.
+
+Since it's inception in 2019, Genomics Aotearoa's training programme has hosted 76 workshops reaching 1477 participants.
+
+To see our list of workshops with descriptions of each, go to our Workshop Portfolio page.
+
+## Upcoming workshops
+
+Reproducible Bioinformatics with Nextflow and nf-core
+
+## Recent past workshops
+
+Intermediate R for Bioinformatics
+
+Intermediate Shell for Bioinformatics

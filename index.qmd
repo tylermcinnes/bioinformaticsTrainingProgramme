@@ -10,7 +10,9 @@ Training is offered through a portfolio of free, interactive workshops instructe
 
 Since it's inception in 2019, Genomics Aotearoa's training programme has hosted 76 workshops reaching 1477 participants.
 
-To see our list of workshops with descriptions of each, go to our Workshop Portfolio page.
+To see our list of workshops with descriptions of each, go to our [Workshop Portfolio](portfolio.qmd) page.
+
+
 
 ## Upcoming workshops
 

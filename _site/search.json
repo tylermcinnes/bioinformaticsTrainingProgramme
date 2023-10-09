@@ -11,6 +11,27 @@
     "href": "index.html",
     "title": "bioinformaticsTrainingProgramme",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "The training programme, an initiative out of Genomics Aotearoa, aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.\nTraining is offered through a portfolio of free, interactive workshops instructed by experts in the field. Workshop material ranges from basic coding for beginners to highly advanced, specialised workflows.\nSince it’s inception in 2019, Genomics Aotearoa’s training programme has hosted 76 workshops reaching 1477 participants.\nTo see our list of workshops with descriptions of each, go to our Workshop Portfolio page."
+  },
+  {
+    "objectID": "index.html#overview-of-the-bioinformatics-training-programme",
+    "href": "index.html#overview-of-the-bioinformatics-training-programme",
+    "title": "bioinformaticsTrainingProgramme",
+    "section": "",
+    "text": "The training programme, an initiative out of Genomics Aotearoa, aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.\nTraining is offered through a portfolio of free, interactive workshops instructed by experts in the field. Workshop material ranges from basic coding for beginners to highly advanced, specialised workflows.\nSince it’s inception in 2019, Genomics Aotearoa’s training programme has hosted 76 workshops reaching 1477 participants.\nTo see our list of workshops with descriptions of each, go to our Workshop Portfolio page."
+  },
+  {
+    "objectID": "index.html#upcoming-workshops",
+    "href": "index.html#upcoming-workshops",
+    "title": "bioinformaticsTrainingProgramme",
+    "section": "Upcoming workshops",
+    "text": "Upcoming workshops\nReproducible Bioinformatics with Nextflow and nf-core"
+  },
+  {
+    "objectID": "index.html#recent-past-workshops",
+    "href": "index.html#recent-past-workshops",
+    "title": "bioinformaticsTrainingProgramme",
+    "section": "Recent past workshops",
+    "text": "Recent past workshops\nIntermediate R for Bioinformatics\nIntermediate Shell for Bioinformatics"
   }
 ]

@@ -33,5 +33,26 @@
     "title": "bioinformaticsTrainingProgramme",
     "section": "Recent past workshops",
     "text": "Recent past workshops\nIntermediate R for Bioinformatics\nIntermediate Shell for Bioinformatics"
+  },
+  {
+    "objectID": "portfolio.html",
+    "href": "portfolio.html",
+    "title": "Workshop portfolio",
+    "section": "",
+    "text": "All workshops are run under The Carpentries Code of Conduct to promote a safe and inclusive working environment.\nOur training workshops are interactive live-coding events. One or more instructors, our subject matter experts who have received formal teaching training, will demonstrate by writing code in real-time (‘live-coding’) while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow the example of the instructors and then complete tasks independently or in small groups. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner.\nOur workshops run with the help of New Zealand eScience Infrastructure (NeSI). This means there is no need to install software, no compatibility issues, no minimum computing requirements. Before the workshop you will create an account and all you will need to complete the workshop is a computer with an internet connection and a web browser.\nAll workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available.\nWorkshops are either in person or online (zoom), and are usually one or two days (10am - 4pm)."
+  },
+  {
+    "objectID": "portfolio.html#workshop-structure-style-and-expectation",
+    "href": "portfolio.html#workshop-structure-style-and-expectation",
+    "title": "Workshop portfolio",
+    "section": "",
+    "text": "All workshops are run under The Carpentries Code of Conduct to promote a safe and inclusive working environment.\nOur training workshops are interactive live-coding events. One or more instructors, our subject matter experts who have received formal teaching training, will demonstrate by writing code in real-time (‘live-coding’) while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow the example of the instructors and then complete tasks independently or in small groups. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner.\nOur workshops run with the help of New Zealand eScience Infrastructure (NeSI). This means there is no need to install software, no compatibility issues, no minimum computing requirements. Before the workshop you will create an account and all you will need to complete the workshop is a computer with an internet connection and a web browser.\nAll workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available.\nWorkshops are either in person or online (zoom), and are usually one or two days (10am - 4pm)."
+  },
+  {
+    "objectID": "portfolio.html#workshop-portfolio",
+    "href": "portfolio.html#workshop-portfolio",
+    "title": "Workshop portfolio",
+    "section": "Workshop portfolio",
+    "text": "Workshop portfolio\n\nIntermediate Shell for Bioinformatics\nShell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing. This includes:\n\nAn overview of the Shell, UNIX and Linux.\nDownloading data from a remote source and checking data integrity.\nRecap navigating files and directories, and commands used in routine tasks.\nInspecting and manipulating data, part 1 (the head, less, grep, and sed commands).\nInspecting and manipulating data, part 2 (using awk and bioawk to process text).\nAutomating file processing.\nChallenges: solve example molecular biology problems using shell scripts.\n\n\n\nIntermediate R: advance your skills with the R programming language\nAdvance your skills with R! You will learn to complete R tasks with fewer lines of code, scale your analyses, and write readable code. Some of the topics covered in the workshop are:\n\nIntroduction to relational data and the join function.\nWorking with regular expressions and functions from the stringr package.\nWriting custom functions, working with conditional statements.\n‘Defensive programming’.\nIterations - for loops, and map_*() functions.\nThe importance of data structure in R."
   }
 ]

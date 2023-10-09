@@ -9,7 +9,6 @@ website:
         text: Home
       - about.qmd
       - portfolio.qmd
-        text: Workshop portfolio
 
 format:
   html:

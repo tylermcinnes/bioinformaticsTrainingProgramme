@@ -110,7 +110,8 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#workshop-structure-style-and-expectation" id="toc-workshop-structure-style-and-expectation" class="nav-link active" data-scroll-target="#workshop-structure-style-and-expectation">Workshop structure, style and expectation</a></li>
-  <li><a href="#workshop-portfolio" id="toc-workshop-portfolio" class="nav-link" data-scroll-target="#workshop-portfolio">Workshop portfolio</a></li>
+  <li><a href="#introductory-workshops" id="toc-introductory-workshops" class="nav-link" data-scroll-target="#introductory-workshops">Introductory workshops</a></li>
+  <li><a href="#intermediate-workshops" id="toc-intermediate-workshops" class="nav-link" data-scroll-target="#intermediate-workshops">Intermediate workshops</a></li>
   </ul>
 </nav>
     </div>
@@ -142,8 +143,64 @@ ul.task-list li input[type="checkbox"] {
 <p>All workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available.</p>
 <p>Workshops are either in person or online (zoom), and are usually one or two days (10am - 4pm).</p>
 </section>
-<section id="workshop-portfolio" class="level2">
-<h2 class="anchored" data-anchor-id="workshop-portfolio">Workshop portfolio</h2>
+<section id="introductory-workshops" class="level2">
+<h2 class="anchored" data-anchor-id="introductory-workshops">Introductory workshops</h2>
+<p>Our series of introductory workshops are designed to take you from absolute beginner to self-driving learner. Each of these workshops can be done as a standalone crash course in a particular topic, and they can also be strung together to provide a strong foundation in bioinformatics principals and practices.</p>
+<section id="introduction-to-bash-scripting-and-hpc-job-scheduler" class="level4">
+<h4 class="anchored" data-anchor-id="introduction-to-bash-scripting-and-hpc-job-scheduler">Introduction to Bash Scripting and HPC Job Scheduler</h4>
+<p>Get started with writing your own scripts for data analysis and working on an HPC (high performance computing) environment. Some of the topics covered in the workshop are:</p>
+<ul>
+<li><p>Designing a variant calling workflow.</p></li>
+<li><p>Automating a workflow.</p></li>
+<li><p>An introduction to HPC.</p></li>
+<li><p>Working with job scheduler.</p></li>
+</ul>
+</section>
+<section id="introduction-to-the-r-programming-language" class="level4">
+<h4 class="anchored" data-anchor-id="introduction-to-the-r-programming-language">Introduction to the R programming language</h4>
+<p>Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables. Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop. Some of the topics covered in the workshop are:</p>
+<ul>
+<li><p>An introduction to R and RStudio.</p></li>
+<li><p>R basics: The R language, reading data into R, storing data as objects.</p></li>
+<li><p>R packages.</p></li>
+<li><p>Publication-quality data presentation using ggplot2.</p></li>
+<li><p>Knitr: keep track of workflow and produce easy-to-follow reports of your work.</p></li>
+<li><p>Where to get more help when you are ready to do more.</p></li>
+</ul>
+<p>We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts.</p>
+</section>
+<section id="rna-seq-data-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="rna-seq-data-analysis">RNA-seq Data Analysis</h4>
+<p>Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes. Some of the topics covered in the workshop are:</p>
+<ul>
+<li><p>Quality assessment</p></li>
+<li><p>Trimming and filtering</p></li>
+<li><p>Mapping and read counts</p></li>
+<li><p>Differential expression analysis</p></li>
+<li><p>Over-representation analysis</p></li>
+</ul>
+</section>
+<section id="genomics-data-carpentry-introduction-to-shell" class="level4">
+<h4 class="anchored" data-anchor-id="genomics-data-carpentry-introduction-to-shell">Genomics Data Carpentry (introduction to Shell)</h4>
+<p>Learn the fundamentals of working with genomics data, data management and analysis in this two day workshop. This workshop will cover three topics:</p>
+<ul>
+<li>Project organisation
+<ul>
+<li>Data tidiness, project planning, examining data.</li>
+</ul></li>
+<li>Introduction to the command line
+<ul>
+<li>Introducing the Shell, navigating files and directories, working with files and directories, redirection, scripts.</li>
+</ul></li>
+<li>Data wrangling
+<ul>
+<li>Using RNA-seq data as an example: metadata, assessing data quality, example workflow.</li>
+</ul></li>
+</ul>
+</section>
+</section>
+<section id="intermediate-workshops" class="level2">
+<h2 class="anchored" data-anchor-id="intermediate-workshops">Intermediate workshops</h2>
 <section id="intermediate-shell-for-bioinformatics" class="level4">
 <h4 class="anchored" data-anchor-id="intermediate-shell-for-bioinformatics">Intermediate Shell for Bioinformatics</h4>
 <p>Shell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing. This includes:</p>
@@ -167,6 +224,33 @@ ul.task-list li input[type="checkbox"] {
 <li><p>‘Defensive programming’.</p></li>
 <li><p>Iterations - for loops, and map_*() functions.</p></li>
 <li><p>The importance of data structure in R.</p></li>
+</ul>
+</section>
+<section id="outlier-analysis" class="level4">
+<h4 class="anchored" data-anchor-id="outlier-analysis">Outlier Analysis</h4>
+<p>Identify regions of the genome that are under forms of selection during a two-day workshop. During this workshop you will:</p>
+<ul>
+<li><p>Download example genomic data (or prepare your own).</p></li>
+<li><p>Use the PCAdapt tool to identify outlier loci within a genome.</p></li>
+<li><p>Use VCFtools to identify outlier SNPS in population comparisons.</p></li>
+<li><p>Use Bayescan to identify outlier SNPS based on allele frequencies.</p></li>
+<li><p>Relate identified SNPS to phenotypic variation.</p></li>
+<li><p>Compare the results of the different methods and discuss the results.</p></li>
+</ul>
+<p>The focus of this workshop is on identifying signals of selection in an example genome using the outlier analysis method. Outlier analysis assumes that the majority of the genome is under neutral selection and some loci will appear as outliers relative to this background.</p>
+<p>This lesson assumes learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of selection. You are expected to have some familiarity with both the R programming language and with basic command line (bash).</p>
+</section>
+<section id="constructing-pangenome-graphs-with-pggb" class="level4">
+<h4 class="anchored" data-anchor-id="constructing-pangenome-graphs-with-pggb">Constructing Pangenome Graphs with PGGB</h4>
+<p>How to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping. This workshop will include:</p>
+<ul>
+<li><p>An introduction to pangenome graphs.</p></li>
+<li><p>Setup guide for using the tools and data in the workshop.</p></li>
+<li><p>Overview of the PGGB toolkit.</p></li>
+<li><p>Choosing parameters to construct a graph.</p></li>
+<li><p>QC</p></li>
+<li><p>Extracting variant data.</p></li>
+<li><p>Mapping short reads against a pangenome graph.</p></li>
 </ul>
 
 

@@ -15,7 +15,73 @@ All workshop material, which includes written notes that cover all main points, 
 Workshops are either in person or online (zoom), and are usually one or two days (10am - 4pm). 
 
 
-## Workshop portfolio
+## Introductory workshops
+Our series of introductory workshops are designed to take you from absolute beginner to self-driving learner. Each of these workshops can be done as a standalone crash course in a particular topic, and they can also be strung together to provide a strong foundation in bioinformatics principals and practices.
+
+
+#### Introduction to Bash Scripting and HPC Job Scheduler
+Get started with writing your own scripts for data analysis and working on an HPC (high performance computing) environment.
+Some of the topics covered in the workshop are:
+
+- Designing a variant calling workflow.
+
+- Automating a workflow.
+
+- An introduction to HPC.
+
+- Working with job scheduler.
+
+
+#### Introduction to the R programming language
+Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables. 
+Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop.
+Some of the topics covered in the workshop are:
+
+- An introduction to R and RStudio.
+
+- R basics: The R language, reading data into R, storing data as objects.
+
+- R packages.
+
+- Publication-quality data presentation using ggplot2.
+
+- Knitr: keep track of workflow and produce easy-to-follow reports of your work.
+
+- Where to get more help when you are ready to do more.
+
+We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts. 
+
+
+#### RNA-seq Data Analysis
+Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes.
+Some of the topics covered in the workshop are:
+
+- Quality assessment
+
+- Trimming and filtering
+
+- Mapping and read counts
+
+- Differential expression analysis
+
+- Over-representation analysis
+
+
+#### Genomics Data Carpentry (introduction to Shell)
+Learn the fundamentals of working with genomics data, data management and analysis in this two day workshop.
+This workshop will cover three topics:
+
+- Project organisation
+    - Data tidiness, project planning, examining data.
+
+- Introduction to the command line
+    - Introducing the Shell, navigating files and directories, working with files and directories, redirection, scripts.
+
+- Data wrangling
+    - Using RNA-seq data as an example: metadata, assessing data quality, example workflow.
+
+
+## Intermediate workshops
 
 #### Intermediate Shell for Bioinformatics
 Shell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing.
@@ -71,17 +137,6 @@ The focus of this workshop is on identifying signals of selection in an example 
 
 This lesson assumes learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of selection. You are expected to have some familiarity with both the R programming language and with basic command line (bash).
 
-#### Introduction to Bash Scripting and HPC job scheduler
-Get started with writing your own scripts for data analysis and working on an HPC (high performance computing) environment.
-Some of the topics covered in the workshop are:
-
-- Designing a variant calling workflow.
-
-- Automating a workflow.
-
-- An introduction to HPC.
-
-- Working with job scheduler.
 
 #### Constructing Pangenome Graphs with PGGB
 How to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping.
@@ -101,18 +156,5 @@ This workshop will include:
 
 - Mapping short reads against a pangenome graph.
 
-#### RNA-seq Data Analysis
-Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes.
-Some of the topics covered in the workshop are:
-
-- Quality assessment
-
-- Trimming and filtering
-
-- Mapping and read counts
-
-- Differential expression analysis
-
-- Over-representation analysis
 
 

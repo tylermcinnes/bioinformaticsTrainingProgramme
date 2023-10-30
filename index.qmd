@@ -1,5 +1,5 @@
 ---
-title: "Bioinformatics Training Programme"
+title: "Bioinformatics Training Programme - branching out"
 ---
 
 ## Overview of the Bioinformatics Training Programme

@@ -8,7 +8,7 @@ The training programme, an initiative out of Genomics Aotearoa, aims to upskill 
 
 Training is offered through a portfolio of free, interactive workshops instructed by experts in the field. Workshop material ranges from basic coding for beginners to highly advanced, specialised workflows.
 
-Since it's inception in 2019, Genomics Aotearoa's training programme has hosted 76 workshops reaching 1477 participants.
+Since it's inception in 2019, Genomics Aotearoa's training programme has hosted 80 workshops reaching 1579 participants.
 
 To see our list of workshops with descriptions of each, go to our [Workshop Portfolio](portfolio.qmd) page.
 
@@ -16,9 +16,11 @@ To see our list of workshops with descriptions of each, go to our [Workshop Port
 
 ## Upcoming workshops
 
-Reproducible Bioinformatics with Nextflow and nf-core
+There will be no workshops from now until late January or early February - we find many people are away during these weeks and we will be using this time to update our materials. 
 
 ## Recent past workshops
+
+Reproducible Bioinformatics with Nextflow and nf-core
 
 Intermediate R for Bioinformatics
 

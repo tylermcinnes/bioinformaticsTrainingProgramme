@@ -6,9 +6,9 @@ title: "Workshop portfolio"
 
 All workshops are run under The Carpentries Code of Conduct to promote a safe and inclusive working environment. 
 
-Our training workshops are interactive live-coding events. One or more instructors, our subject matter experts who have received formal teaching training, will demonstrate by writing code in real-time ('live-coding') while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow the example of the instructors and then complete tasks independently or in small groups. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner. 
+Our training workshops are interactive live-coding events. One or more Instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner. 
 
-Our workshops run with the help of New Zealand eScience Infrastructure (NeSI). This means there is no need to install software, no compatibility issues, no minimum computing requirements. Before the workshop you will create an account and all you will need to complete the workshop is a computer with an internet connection and a web browser. 
+Our workshops run with the help of New Zealand eScience Infrastructure (NeSI). Our partnership with NeSI ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser. 
 
 All workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available. 
 
@@ -31,8 +31,12 @@ Some of the topics covered in the workshop are:
 
 - Working with job scheduler.
 
+View the full workshop material here:
+[Introduction to Bash Scripting and HPC Scheduler](https://genomicsaotearoa.github.io/Workshop-Bash_Scripting_And_HPC_Job_Scheduler/)
 
-#### Introduction to the R programming language
+
+
+#### Introduction to the R Programming Language
 Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables. 
 Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop.
 Some of the topics covered in the workshop are:
@@ -51,6 +55,10 @@ Some of the topics covered in the workshop are:
 
 We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts. 
 
+View the full workshop material here:
+[Introduction to the R Programming Language](https://genomicsaotearoa.github.io/Introduction-to-R/)
+
+
 
 #### RNA-seq Data Analysis
 Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes.
@@ -66,19 +74,26 @@ Some of the topics covered in the workshop are:
 
 - Over-representation analysis
 
+View the full workshop material here:
+[RNA-seq Data Analysis](https://genomicsaotearoa.github.io/RNA-seq-workshop/)
+
+
 
 #### Genomics Data Carpentry (introduction to Shell)
-Learn the fundamentals of working with genomics data, data management and analysis in this two day workshop.
-This workshop will cover three topics:
+Learn the fundamentals of working with the Command Line Interface (CLI). Shell is a program that allows you to interact with the command line. Familiarity with the shell will allow you to access remote servers, automate tasks, and use a wide range of tools that are unavailable on a Graphical User Interface (GUI)
 
-- Project organisation
-    - Data tidiness, project planning, examining data.
+During this workshop you will learn:
 
-- Introduction to the command line
-    - Introducing the Shell, navigating files and directories, working with files and directories, redirection, scripts.
+- The importance of the shell.
 
-- Data wrangling
-    - Using RNA-seq data as an example: metadata, assessing data quality, example workflow.
+- How to navigate files and directories.
+
+- How to create, view and modify files.
+
+- Pipes, redirection, and scripts, which will allow you to automate your workflow.
+
+View the full workshop material here:
+[Introduction to the Command Line for Genomics](https://otagobioinformaticsspringschool.github.io/shell-genomics-nesi/index.html)
 
 
 ## Intermediate workshops
@@ -101,6 +116,9 @@ This includes:
 
 - Challenges: solve example molecular biology problems using shell scripts.
 
+View the full workshop material here:
+[Intermediate Shell for Bioinformatics](https://genomicsaotearoa.github.io/shell-for-bioinformatics/)
+
 
 #### Intermediate R: advance your skills with the R programming language
 Advance your skills with R! You will learn to complete R tasks with fewer lines of code, scale your analyses, and write readable code.
@@ -117,6 +135,10 @@ Some of the topics covered in the workshop are:
 - Iterations - for loops, and map_*() functions.
 
 - The importance of data structure in R.
+
+View the full workshop material here:
+[Intermediate R: advancing your skills with the R programming language](https://genomicsaotearoa.github.io/Intermediate-R/)
+
 
 
 #### Outlier Analysis
@@ -139,6 +161,9 @@ The focus of this workshop is on identifying signals of selection in an example 
 
 This lesson assumes learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of selection. You are expected to have some familiarity with both the R programming language and with basic command line (bash).
 
+View the full workshop material here:
+[Outlier Analysis](https://genomicsaotearoa.github.io/Outlier_Analysis_Workshop/)
+
 
 ## Advanced workshops
 
@@ -160,6 +185,10 @@ This workshop will include:
 
 - Mapping short reads against a pangenome graph.
 
+View the full workshop material here:
+[Unlock the Power of Pangenome Graphs](https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/)
+
+
 
 #### Scaling Gene Regulatory Networks Simulations
 Simulate gene regulatory networks using R and Julia. 
@@ -179,3 +208,6 @@ This workshop will include:
 - HPC architectures
 
 - How to scale up simulations on a HPC through profiling and optimisation
+
+View the full workshop material here:
+[Scaling Gene Regulatory Networks Simulations](https://genomicsaotearoa.github.io/Gene_Regulatory_Networks_Simulation_Workshop/)

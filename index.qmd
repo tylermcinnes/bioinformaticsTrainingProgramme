@@ -1,12 +1,13 @@
 ---
-title: "Bioinformatics Training Programme - Main"
+title: "Bioinformatics Training Programme"
+image: /assets/img/nesi_ga.png
 ---
 
 ## Overview of the Bioinformatics Training Programme
 
-The training programme, an initiative out of Genomics Aotearoa, aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.
+The Genomics Aotearoa Bioinformatics Training Programme aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.
 
-Training is offered through a portfolio of free, interactive workshops instructed by experts in the field. Workshop material ranges from basic coding for beginners to highly advanced, specialised workflows.
+Training is offered through a portfolio of free, interactive workshops instructed by experts. Workshop material covers basic coding for beginners to highly advanced, specialised workflows.
 
 Since it's inception in 2019, Genomics Aotearoa's training programme has hosted 80 workshops reaching 1579 participants.
 
@@ -16,7 +17,7 @@ To see our list of workshops with descriptions of each, go to our [Workshop Port
 
 ## Upcoming workshops
 
-There will be no workshops from now until late January or early February - we find many people are away during these weeks and we will be using this time to update our materials. 
+There will be no workshops from early December 2023 until late January or early February 2024 - we find many people are away during these weeks and we will be using this time to update existing material and develop new content. If you have any questions or would like to propose a workshop, please contact Training Coordinator Dr. Tyler McInnes (tyler.mcinnes@otago.ac.nz).
 
 ## Recent past workshops
 

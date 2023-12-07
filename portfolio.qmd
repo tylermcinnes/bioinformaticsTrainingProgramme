@@ -19,7 +19,7 @@ Workshops are either in person or online (zoom), and are usually one or two days
 Our series of introductory workshops are designed to take you from absolute beginner to self-driving learner. Each of these workshops can be done as a standalone crash course in a particular topic, and they can also be strung together to provide a strong foundation in bioinformatics principals and practices.
 
 
-#### Introduction to Bash Scripting and HPC Job Scheduler
+### Introduction to Bash Scripting and HPC Job Scheduler
 Get started with writing your own scripts for data analysis and working on an HPC (high performance computing) environment.
 Some of the topics covered in the workshop are:
 
@@ -36,7 +36,7 @@ View the full workshop material here:
 
 
 
-#### Introduction to the R Programming Language
+### Introduction to the R Programming Language
 Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables. 
 Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop.
 Some of the topics covered in the workshop are:
@@ -60,7 +60,7 @@ View the full workshop material here:
 
 
 
-#### RNA-seq Data Analysis
+### RNA-seq Data Analysis
 Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes.
 Some of the topics covered in the workshop are:
 
@@ -79,7 +79,7 @@ View the full workshop material here:
 
 
 
-#### Genomics Data Carpentry (introduction to Shell)
+### Genomics Data Carpentry (introduction to Shell)
 Learn the fundamentals of working with the Command Line Interface (CLI). Shell is a program that allows you to interact with the command line. Familiarity with the shell will allow you to access remote servers, automate tasks, and use a wide range of tools that are unavailable on a Graphical User Interface (GUI)
 
 During this workshop you will learn:
@@ -98,7 +98,7 @@ View the full workshop material here:
 
 ## Intermediate workshops
 
-#### Intermediate Shell for Bioinformatics
+### Intermediate Shell for Bioinformatics
 Shell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing.
 This includes:
 
@@ -120,7 +120,7 @@ View the full workshop material here:
 [Intermediate Shell for Bioinformatics](https://genomicsaotearoa.github.io/shell-for-bioinformatics/)
 
 
-#### Intermediate R: advance your skills with the R programming language
+### Intermediate R: advance your skills with the R programming language
 Advance your skills with R! You will learn to complete R tasks with fewer lines of code, scale your analyses, and write readable code.
 Some of the topics covered in the workshop are:
 
@@ -141,7 +141,7 @@ View the full workshop material here:
 
 
 
-#### Outlier Analysis
+### Outlier Analysis
 Identify regions of the genome that are under forms of selection during a two-day workshop.
 During this workshop you will:
 
@@ -167,7 +167,24 @@ View the full workshop material here:
 
 ## Advanced workshops
 
-#### Constructing Pangenome Graphs with PGGB
+### Reproducible Bioinformatics with Nextflow and nf-core
+Reproducible research is of the utmost importance. Nextflow is workflow management software that enables the writing of scalable and reproducible scientific workflows. It can integrate various software packages and environment management systems from environment modules to Docker, Singularity, and Conda. It allows for existing pipelines written in common scripting languages to be seamlessly coupled together. Nextflow simplifies the implementation and execution of workflows on cloud or high-performance computing infrastructures. 
+
+In this workshop you will:
+
+- Be introduced to Nextflow and execute an example pipeline.
+
+- Be introduced to nf-core, an online repository of curated pipelines.
+
+- Learn how to configure and customise an existing nf-core pipeline.
+
+- Generate metrics and reports.
+
+View the full workshop material here:
+[Reproducible Bioinformatics Workflows with Nextflow and nf-core](https://genomicsaotearoa.github.io/Nextflow_Workshop/)
+
+
+### Constructing Pangenome Graphs with PGGB
 How to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping.
 This workshop will include:
 
@@ -190,7 +207,7 @@ View the full workshop material here:
 
 
 
-#### Scaling Gene Regulatory Networks Simulations
+### Scaling Gene Regulatory Networks Simulations
 Simulate gene regulatory networks using R and Julia. 
 This workshop will include:
 - Why simulations are valuable in systems biology,

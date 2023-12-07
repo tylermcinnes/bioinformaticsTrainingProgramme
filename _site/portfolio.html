@@ -35,10 +35,12 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark.min.css" rel="prefetch" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -83,18 +85,19 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html" rel="" target="">
- <span class="menu-text">About</span></a>
+ <span class="menu-text">Training Programme Overview</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link active" href="./portfolio.html" rel="" target="" aria-current="page">
  <span class="menu-text">Workshop portfolio</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./about.html" rel="" target="">
+ <span class="menu-text">About</span></a>
+  </li>  
 </ul>
             <div class="quarto-navbar-tools ms-auto">
+  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
@@ -110,9 +113,25 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#workshop-structure-style-and-expectation" id="toc-workshop-structure-style-and-expectation" class="nav-link active" data-scroll-target="#workshop-structure-style-and-expectation">Workshop structure, style and expectation</a></li>
-  <li><a href="#introductory-workshops" id="toc-introductory-workshops" class="nav-link" data-scroll-target="#introductory-workshops">Introductory workshops</a></li>
-  <li><a href="#intermediate-workshops" id="toc-intermediate-workshops" class="nav-link" data-scroll-target="#intermediate-workshops">Intermediate workshops</a></li>
-  <li><a href="#advanced-workshops" id="toc-advanced-workshops" class="nav-link" data-scroll-target="#advanced-workshops">Advanced workshops</a></li>
+  <li><a href="#introductory-workshops" id="toc-introductory-workshops" class="nav-link" data-scroll-target="#introductory-workshops">Introductory workshops</a>
+  <ul class="collapse">
+  <li><a href="#introduction-to-bash-scripting-and-hpc-job-scheduler" id="toc-introduction-to-bash-scripting-and-hpc-job-scheduler" class="nav-link" data-scroll-target="#introduction-to-bash-scripting-and-hpc-job-scheduler">Introduction to Bash Scripting and HPC Job Scheduler</a></li>
+  <li><a href="#introduction-to-the-r-programming-language" id="toc-introduction-to-the-r-programming-language" class="nav-link" data-scroll-target="#introduction-to-the-r-programming-language">Introduction to the R Programming Language</a></li>
+  <li><a href="#rna-seq-data-analysis" id="toc-rna-seq-data-analysis" class="nav-link" data-scroll-target="#rna-seq-data-analysis">RNA-seq Data Analysis</a></li>
+  <li><a href="#genomics-data-carpentry-introduction-to-shell" id="toc-genomics-data-carpentry-introduction-to-shell" class="nav-link" data-scroll-target="#genomics-data-carpentry-introduction-to-shell">Genomics Data Carpentry (introduction to Shell)</a></li>
+  </ul></li>
+  <li><a href="#intermediate-workshops" id="toc-intermediate-workshops" class="nav-link" data-scroll-target="#intermediate-workshops">Intermediate workshops</a>
+  <ul class="collapse">
+  <li><a href="#intermediate-shell-for-bioinformatics" id="toc-intermediate-shell-for-bioinformatics" class="nav-link" data-scroll-target="#intermediate-shell-for-bioinformatics">Intermediate Shell for Bioinformatics</a></li>
+  <li><a href="#intermediate-r-advance-your-skills-with-the-r-programming-language" id="toc-intermediate-r-advance-your-skills-with-the-r-programming-language" class="nav-link" data-scroll-target="#intermediate-r-advance-your-skills-with-the-r-programming-language">Intermediate R: advance your skills with the R programming language</a></li>
+  <li><a href="#outlier-analysis" id="toc-outlier-analysis" class="nav-link" data-scroll-target="#outlier-analysis">Outlier Analysis</a></li>
+  </ul></li>
+  <li><a href="#advanced-workshops" id="toc-advanced-workshops" class="nav-link" data-scroll-target="#advanced-workshops">Advanced workshops</a>
+  <ul class="collapse">
+  <li><a href="#reproducible-bioinformatics-with-nextflow-and-nf-core" id="toc-reproducible-bioinformatics-with-nextflow-and-nf-core" class="nav-link" data-scroll-target="#reproducible-bioinformatics-with-nextflow-and-nf-core">Reproducible Bioinformatics with Nextflow and nf-core</a></li>
+  <li><a href="#constructing-pangenome-graphs-with-pggb" id="toc-constructing-pangenome-graphs-with-pggb" class="nav-link" data-scroll-target="#constructing-pangenome-graphs-with-pggb">Constructing Pangenome Graphs with PGGB</a></li>
+  <li><a href="#scaling-gene-regulatory-networks-simulations" id="toc-scaling-gene-regulatory-networks-simulations" class="nav-link" data-scroll-target="#scaling-gene-regulatory-networks-simulations">Scaling Gene Regulatory Networks Simulations</a></li>
+  </ul></li>
   </ul>
 </nav>
     </div>
@@ -147,8 +166,8 @@ ul.task-list li input[type="checkbox"] {
 <section id="introductory-workshops" class="level2">
 <h2 class="anchored" data-anchor-id="introductory-workshops">Introductory workshops</h2>
 <p>Our series of introductory workshops are designed to take you from absolute beginner to self-driving learner. Each of these workshops can be done as a standalone crash course in a particular topic, and they can also be strung together to provide a strong foundation in bioinformatics principals and practices.</p>
-<section id="introduction-to-bash-scripting-and-hpc-job-scheduler" class="level4">
-<h4 class="anchored" data-anchor-id="introduction-to-bash-scripting-and-hpc-job-scheduler">Introduction to Bash Scripting and HPC Job Scheduler</h4>
+<section id="introduction-to-bash-scripting-and-hpc-job-scheduler" class="level3">
+<h3 class="anchored" data-anchor-id="introduction-to-bash-scripting-and-hpc-job-scheduler">Introduction to Bash Scripting and HPC Job Scheduler</h3>
 <p>Get started with writing your own scripts for data analysis and working on an HPC (high performance computing) environment. Some of the topics covered in the workshop are:</p>
 <ul>
 <li><p>Designing a variant calling workflow.</p></li>
@@ -158,8 +177,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Workshop-Bash_Scripting_And_HPC_Job_Scheduler/">Introduction to Bash Scripting and HPC Scheduler</a></p>
 </section>
-<section id="introduction-to-the-r-programming-language" class="level4">
-<h4 class="anchored" data-anchor-id="introduction-to-the-r-programming-language">Introduction to the R Programming Language</h4>
+<section id="introduction-to-the-r-programming-language" class="level3">
+<h3 class="anchored" data-anchor-id="introduction-to-the-r-programming-language">Introduction to the R Programming Language</h3>
 <p>Get started with R, a highly popular programming language in the fields of biology and statistics. R is world-renowned for producing high-quality, publication-ready figures and tables. Note that this workshop is a pre-requisite for the RNA-seq Data Analysis workshop. Some of the topics covered in the workshop are:</p>
 <ul>
 <li><p>An introduction to R and RStudio.</p></li>
@@ -172,8 +191,8 @@ ul.task-list li input[type="checkbox"] {
 <p>We assume the learner has no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts.</p>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Introduction-to-R/">Introduction to the R Programming Language</a></p>
 </section>
-<section id="rna-seq-data-analysis" class="level4">
-<h4 class="anchored" data-anchor-id="rna-seq-data-analysis">RNA-seq Data Analysis</h4>
+<section id="rna-seq-data-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="rna-seq-data-analysis">RNA-seq Data Analysis</h3>
 <p>Get started with analysing RNA-seq datasets, identifying differentially expressed genes and highlighting impacted biological processes. Some of the topics covered in the workshop are:</p>
 <ul>
 <li><p>Quality assessment</p></li>
@@ -184,8 +203,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/RNA-seq-workshop/">RNA-seq Data Analysis</a></p>
 </section>
-<section id="genomics-data-carpentry-introduction-to-shell" class="level4">
-<h4 class="anchored" data-anchor-id="genomics-data-carpentry-introduction-to-shell">Genomics Data Carpentry (introduction to Shell)</h4>
+<section id="genomics-data-carpentry-introduction-to-shell" class="level3">
+<h3 class="anchored" data-anchor-id="genomics-data-carpentry-introduction-to-shell">Genomics Data Carpentry (introduction to Shell)</h3>
 <p>Learn the fundamentals of working with the Command Line Interface (CLI). Shell is a program that allows you to interact with the command line. Familiarity with the shell will allow you to access remote servers, automate tasks, and use a wide range of tools that are unavailable on a Graphical User Interface (GUI)</p>
 <p>During this workshop you will learn:</p>
 <ul>
@@ -199,8 +218,8 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="intermediate-workshops" class="level2">
 <h2 class="anchored" data-anchor-id="intermediate-workshops">Intermediate workshops</h2>
-<section id="intermediate-shell-for-bioinformatics" class="level4">
-<h4 class="anchored" data-anchor-id="intermediate-shell-for-bioinformatics">Intermediate Shell for Bioinformatics</h4>
+<section id="intermediate-shell-for-bioinformatics" class="level3">
+<h3 class="anchored" data-anchor-id="intermediate-shell-for-bioinformatics">Intermediate Shell for Bioinformatics</h3>
 <p>Shell overview, downloading and verifying data, inspecting and manipulating text data with Unix tools, automating file-processing. This includes:</p>
 <ul>
 <li><p>An overview of the Shell, UNIX and Linux.</p></li>
@@ -213,8 +232,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/shell-for-bioinformatics/">Intermediate Shell for Bioinformatics</a></p>
 </section>
-<section id="intermediate-r-advance-your-skills-with-the-r-programming-language" class="level4">
-<h4 class="anchored" data-anchor-id="intermediate-r-advance-your-skills-with-the-r-programming-language">Intermediate R: advance your skills with the R programming language</h4>
+<section id="intermediate-r-advance-your-skills-with-the-r-programming-language" class="level3">
+<h3 class="anchored" data-anchor-id="intermediate-r-advance-your-skills-with-the-r-programming-language">Intermediate R: advance your skills with the R programming language</h3>
 <p>Advance your skills with R! You will learn to complete R tasks with fewer lines of code, scale your analyses, and write readable code. Some of the topics covered in the workshop are:</p>
 <ul>
 <li><p>Introduction to relational data and the join function.</p></li>
@@ -226,8 +245,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Intermediate-R/">Intermediate R: advancing your skills with the R programming language</a></p>
 </section>
-<section id="outlier-analysis" class="level4">
-<h4 class="anchored" data-anchor-id="outlier-analysis">Outlier Analysis</h4>
+<section id="outlier-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="outlier-analysis">Outlier Analysis</h3>
 <p>Identify regions of the genome that are under forms of selection during a two-day workshop. During this workshop you will:</p>
 <ul>
 <li><p>Download example genomic data (or prepare your own).</p></li>
@@ -244,8 +263,20 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="advanced-workshops" class="level2">
 <h2 class="anchored" data-anchor-id="advanced-workshops">Advanced workshops</h2>
-<section id="constructing-pangenome-graphs-with-pggb" class="level4">
-<h4 class="anchored" data-anchor-id="constructing-pangenome-graphs-with-pggb">Constructing Pangenome Graphs with PGGB</h4>
+<section id="reproducible-bioinformatics-with-nextflow-and-nf-core" class="level3">
+<h3 class="anchored" data-anchor-id="reproducible-bioinformatics-with-nextflow-and-nf-core">Reproducible Bioinformatics with Nextflow and nf-core</h3>
+<p>Reproducible research is of the utmost importance. Nextflow is workflow management software that enables the writing of scalable and reproducible scientific workflows. It can integrate various software packages and environment management systems from environment modules to Docker, Singularity, and Conda. It allows for existing pipelines written in common scripting languages to be seamlessly coupled together. Nextflow simplifies the implementation and execution of workflows on cloud or high-performance computing infrastructures.</p>
+<p>In this workshop you will:</p>
+<ul>
+<li><p>Be introduced to Nextflow and execute an example pipeline.</p></li>
+<li><p>Be introduced to nf-core, an online repository of curated pipelines.</p></li>
+<li><p>Learn how to configure and customise an existing nf-core pipeline.</p></li>
+<li><p>Generate metrics and reports.</p></li>
+</ul>
+<p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Nextflow_Workshop/">Reproducible Bioinformatics Workflows with Nextflow and nf-core</a></p>
+</section>
+<section id="constructing-pangenome-graphs-with-pggb" class="level3">
+<h3 class="anchored" data-anchor-id="constructing-pangenome-graphs-with-pggb">Constructing Pangenome Graphs with PGGB</h3>
 <p>How to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping. This workshop will include:</p>
 <ul>
 <li><p>An introduction to pangenome graphs.</p></li>
@@ -258,8 +289,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>View the full workshop material here: <a href="https://genomicsaotearoa.github.io/Pangenome-Graphs-Workshop/">Unlock the Power of Pangenome Graphs</a></p>
 </section>
-<section id="scaling-gene-regulatory-networks-simulations" class="level4">
-<h4 class="anchored" data-anchor-id="scaling-gene-regulatory-networks-simulations">Scaling Gene Regulatory Networks Simulations</h4>
+<section id="scaling-gene-regulatory-networks-simulations" class="level3">
+<h3 class="anchored" data-anchor-id="scaling-gene-regulatory-networks-simulations">Scaling Gene Regulatory Networks Simulations</h3>
 <p>Simulate gene regulatory networks using R and Julia. This workshop will include: - Why simulations are valuable in systems biology,</p>
 <ul>
 <li><p>What regulatory networks are and how they can be modelled,</p></li>
@@ -297,6 +328,121 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const disableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'prefetch';
+    }
+  }
+  const enableStylesheet = (stylesheets) => {
+    for (let i=0; i < stylesheets.length; i++) {
+      const stylesheet = stylesheets[i];
+      stylesheet.rel = 'stylesheet';
+    }
+  }
+  const manageTransitions = (selector, allowTransitions) => {
+    const els = window.document.querySelectorAll(selector);
+    for (let i=0; i < els.length; i++) {
+      const el = els[i];
+      if (allowTransitions) {
+        el.classList.remove('notransition');
+      } else {
+        el.classList.add('notransition');
+      }
+    }
+  }
+  const toggleColorMode = (alternate) => {
+    // Switch the stylesheets
+    const alternateStylesheets = window.document.querySelectorAll('link.quarto-color-scheme.quarto-color-alternate');
+    manageTransitions('#quarto-margin-sidebar .nav-link', false);
+    if (alternate) {
+      enableStylesheet(alternateStylesheets);
+      for (const sheetNode of alternateStylesheets) {
+        if (sheetNode.id === "quarto-bootstrap") {
+          toggleBodyColorMode(sheetNode);
+        }
+      }
+    } else {
+      disableStylesheet(alternateStylesheets);
+      toggleBodyColorPrimary();
+    }
+    manageTransitions('#quarto-margin-sidebar .nav-link', true);
+    // Switch the toggles
+    const toggles = window.document.querySelectorAll('.quarto-color-scheme-toggle');
+    for (let i=0; i < toggles.length; i++) {
+      const toggle = toggles[i];
+      if (toggle) {
+        if (alternate) {
+          toggle.classList.add("alternate");     
+        } else {
+          toggle.classList.remove("alternate");
+        }
+      }
+    }
+    // Hack to workaround the fact that safari doesn't
+    // properly recolor the scrollbar when toggling (#1455)
+    if (navigator.userAgent.indexOf('Safari') > 0 && navigator.userAgent.indexOf('Chrome') == -1) {
+      manageTransitions("body", false);
+      window.scrollTo(0, 1);
+      setTimeout(() => {
+        window.scrollTo(0, 0);
+        manageTransitions("body", true);
+      }, 40);  
+    }
+  }
+  const isFileUrl = () => { 
+    return window.location.protocol === 'file:';
+  }
+  const hasAlternateSentinel = () => {  
+    let styleSentinel = getColorSchemeSentinel();
+    if (styleSentinel !== null) {
+      return styleSentinel === "alternate";
+    } else {
+      return false;
+    }
+  }
+  const setStyleSentinel = (alternate) => {
+    const value = alternate ? "alternate" : "default";
+    if (!isFileUrl()) {
+      window.localStorage.setItem("quarto-color-scheme", value);
+    } else {
+      localAlternateSentinel = value;
+    }
+  }
+  const getColorSchemeSentinel = () => {
+    if (!isFileUrl()) {
+      const storageValue = window.localStorage.getItem("quarto-color-scheme");
+      return storageValue != null ? storageValue : localAlternateSentinel;
+    } else {
+      return localAlternateSentinel;
+    }
+  }
+  let localAlternateSentinel = 'default';
+  // Dark / light mode switch
+  window.quartoToggleColorScheme = () => {
+    // Read the current dark / light value 
+    let toAlternate = !hasAlternateSentinel();
+    toggleColorMode(toAlternate);
+    setStyleSentinel(toAlternate);
+  };
+  // Ensure there is a toggle, if there isn't float one in the top right
+  if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
+    const a = window.document.createElement('a');
+    a.classList.add('top-right');
+    a.classList.add('quarto-color-scheme-toggle');
+    a.href = "";
+    a.onclick = function() { try { window.quartoToggleColorScheme(); } catch {} return false; };
+    const i = window.document.createElement("i");
+    i.classList.add('bi');
+    a.appendChild(i);
+    window.document.body.appendChild(a);
+  }
+  // Switch to dark mode if need be
+  if (hasAlternateSentinel()) {
+    toggleColorMode(true);
+  } else {
+    toggleColorMode(false);
+  }
   const icon = "";
   const anchorJS = new window.AnchorJS();
   anchorJS.options = {

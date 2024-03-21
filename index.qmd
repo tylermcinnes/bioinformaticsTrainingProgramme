@@ -22,13 +22,26 @@ To see our list of workshops with descriptions of each, go to our [Workshop Port
 
 
 ## Upcoming workshops
+Introduction to Bash Scripting and HPC Job Scheduler (27.03.2024)
 
-There will be no workshops from early December 2023 until late January or early February 2024 - we find many people are away during these weeks and we will be using this time to update existing material and develop new content. If you have any questions or would like to propose a workshop, please contact Training Coordinator Dr. Tyler McInnes (tyler.mcinnes@otago.ac.nz).
+Intermediate R for Data Analysis (10.04.2024)
+
+Intermediate Shell for Bioinformatics (16.04.2024)
+
 
 ## Recent past workshops
 
-Reproducible Bioinformatics with Nextflow and nf-core
+RNA-seq Data Analysis (20.03.2024)
 
-Intermediate R for Bioinformatics
+Long-read Genome Assembly (06.03.2024)
 
-Intermediate Shell for Bioinformatics
+Introduction to R (28.02.2024)
+
+Introduction to the Command Line (Bash) (14.02.2024)
+
+Intermediate R for Bioinformatics (09.11.2023)
+
+Reproducible Bioinformatics with Nextflow and nf-core (11.10.2023)
+
+Intermediate Shell for Bioinformatics (27.09.2023)
+

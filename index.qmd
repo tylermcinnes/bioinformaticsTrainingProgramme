@@ -1,6 +1,12 @@
 ---
 title: "Bioinformatics Training Programme"
-image: /assets/img/nesi_ga.png
+image: assets/img/nesi_ga.png
+
+about:
+  id: hero-heading
+  template: solana
+  image: assets/img/nesi_ga.png
+  image-width: 10em
 ---
 
 ## Overview of the Bioinformatics Training Programme

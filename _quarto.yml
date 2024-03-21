@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Bioinformatics Training Programme"
@@ -15,6 +16,7 @@ website:
 
 format:
   html:
+    page-layout: full
     theme: 
         light: flatly
         dark: darkly

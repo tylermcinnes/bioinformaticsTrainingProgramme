@@ -12,6 +12,7 @@ website:
         text: Training Programme Overview
       - href: portfolio.qmd
       - href: about.qmd
+      - href: meetTheTeam.qmd
       
 
 format:

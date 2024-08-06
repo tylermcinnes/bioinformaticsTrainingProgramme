@@ -1,5 +1,19 @@
 ---
-title: "About"
+title: "Genomics Aotearoa"
 ---
 
-About this site
+## Who, and what, is Genomics Aotearoa?
+
+Genomics Aotearoa is a collaborative research platform which brings researchers together to focus on genomics and bioinformatics projects. Government-funded through an MBIE grant, Genomics Aotearoa aims to grow and develop our country's research capabilities while carrying out leading edge research. 
+
+Genomics Aotearoa endeavours to be an inclusive environment, and strives to....
+
+
+
+## What is the training programme?
+
+One of the projects that Genomics Aotearoa is committed to is building capability and capacity in the fields of bioinformatics and genomics. The Bioinformatics Training Programme is the people-focused arm of this project, with the broad remit of upskilling researchers in Aotearoa. 
+
+## How does training work? How do I sign up? 
+
+Workshops are advertised through the Genomics Aotearoa mailing list (sign-up link). Adverts go out, usually on a Monday morning, with a brief description of the workshop and a link to register for the workshop. 

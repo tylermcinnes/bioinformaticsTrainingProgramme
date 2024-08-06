@@ -1,0 +1,33 @@
+---
+title: "Meet the Training Team"
+---
+
+## Who are we?
+
+The training team includes members of both Genomics Aotearoa and NeSI (New Zealand eScience Infrastructure), as well as Postdoctoral Fellows and early career researchers who volunteer their time. 
+
+All workshops are led by an **Instructor**: *subject matter experts who deliver high-level knowledge of the topic, demonstrating code in real-time*.
+
+All workshops are supported by **Helpers**: *knowledgeable people who answer one-off questions or help you to solve issues as they arise*.
+
+**All workshops** have one or more Instructors or Helpers who have *received formal training from The Carpentries or an equivalent*.
+
+
+## Get to know the team
+
+### Associate Professor Dr Michael Black (Mik Black, GA)
+Co-director of Genomics Aotearoa and head of the Bioinformatics Project. Enjoys fonts, has a dog. 
+
+### Bioinformatics Training Coordinator: Tyler McInnes, GA
+I like stuff
+
+### Bioinformatics Training Coordinator: Jian Sheng Boey, GA
+Swimming is cool
+
+### Dinindu Senanayake, NeSI
+I don't include my job title in my email signature, but Tyler's pretty sure the whole thing burns down without me
+
+### Matt Bixley, NeSI
+Self-professed R nerd who can code and run a marathon at the same time, and beat you at both. 
+
+

@@ -1,45 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Genomics Aotearoa and NeSI: Bioinformatics Training Programme",
-    "section": "",
-    "text": "The Genomics Aotearoa Bioinformatics Training Programme aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.\nTraining is offered through a portfolio of free, interactive workshops instructed by experts. Workshop material covers basic coding for beginners to highly advanced, specialised workflows.\nWe work closely with our partners at NeSI (New Zealand eScience Infrastructure), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection.\nSince it’s inception in 2019, Genomics Aotearoa’s training programme has hosted 94 workshops reaching more than 1,800 participants."
-  },
-  {
-    "objectID": "index.html#overview-of-the-bioinformatics-training-programme",
-    "href": "index.html#overview-of-the-bioinformatics-training-programme",
-    "title": "Genomics Aotearoa and NeSI: Bioinformatics Training Programme",
-    "section": "",
-    "text": "The Genomics Aotearoa Bioinformatics Training Programme aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.\nTraining is offered through a portfolio of free, interactive workshops instructed by experts. Workshop material covers basic coding for beginners to highly advanced, specialised workflows.\nWe work closely with our partners at NeSI (New Zealand eScience Infrastructure), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection.\nSince it’s inception in 2019, Genomics Aotearoa’s training programme has hosted 94 workshops reaching more than 1,800 participants."
-  },
-  {
-    "objectID": "index.html#upcoming-workshops",
-    "href": "index.html#upcoming-workshops",
-    "title": "Genomics Aotearoa and NeSI: Bioinformatics Training Programme",
-    "section": "Upcoming workshops",
-    "text": "Upcoming workshops"
-  },
-  {
-    "objectID": "index.html#recent-past-workshops",
-    "href": "index.html#recent-past-workshops",
-    "title": "Genomics Aotearoa and NeSI: Bioinformatics Training Programme",
-    "section": "Recent past workshops",
-    "text": "Recent past workshops\nIntermediate Shell for Bioinformatics (16.04.2024)\nIntermediate R for Data Analysis (10.04.2024)\nIntroduction to Bash Scripting and HPC Job Scheduler (27.03.2024)\nRNA-seq Data Analysis (20.03.2024)\nLong-read Genome Assembly (06.03.2024)\nIntroduction to R (28.02.2024)\nIntroduction to the Command Line (Bash) (14.02.2024)\nIntermediate R for Bioinformatics (09.11.2023)\nReproducible Bioinformatics with Nextflow and nf-core (11.10.2023)\nIntermediate Shell for Bioinformatics (27.09.2023)"
-  },
-  {
     "objectID": "portfolio.html",
     "href": "portfolio.html",
     "title": "Workshop portfolio",
     "section": "",
-    "text": "All workshops are run under The Carpentries [Code of Conduct] (https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment.\nOur training workshops are interactive live-coding events. One or more Instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner.\nOur workshops run with the help of New Zealand eScience Infrastructure (NeSI). Our partnership with NeSI ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser.\nAll workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available.\nWorkshops are either in person or online (zoom), and are usually one or two days (10am - 4pm)."
+    "text": "All workshops are run under The Carpentries Code of Conduct to promote a safe and inclusive working environment.\nOur training workshops are interactive live-coding events. One or more Instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner.\nOur workshops run with the help of New Zealand eScience Infrastructure (NeSI). Our partnership with NeSI ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser.\nAll workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available.\nWorkshops are either in person or online (zoom), and are usually one or two days (10am - 4pm)."
   },
   {
     "objectID": "portfolio.html#workshop-structure-style-and-expectation",
     "href": "portfolio.html#workshop-structure-style-and-expectation",
     "title": "Workshop portfolio",
     "section": "",
-    "text": "All workshops are run under The Carpentries [Code of Conduct] (https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment.\nOur training workshops are interactive live-coding events. One or more Instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner.\nOur workshops run with the help of New Zealand eScience Infrastructure (NeSI). Our partnership with NeSI ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser.\nAll workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available.\nWorkshops are either in person or online (zoom), and are usually one or two days (10am - 4pm)."
+    "text": "All workshops are run under The Carpentries Code of Conduct to promote a safe and inclusive working environment.\nOur training workshops are interactive live-coding events. One or more Instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner.\nOur workshops run with the help of New Zealand eScience Infrastructure (NeSI). Our partnership with NeSI ensures there is no need to install software, no compatibility issues, no minimum computing requirements. All you will need to complete the workshop is a computer with an internet connection and a web browser.\nAll workshop material, which includes written notes that cover all main points, code examples, and tasks (as well as their solutions), is provided in advance and is freely available.\nWorkshops are either in person or online (zoom), and are usually one or two days (10am - 4pm)."
   },
   {
     "objectID": "portfolio.html#introductory-workshops",
@@ -63,46 +35,18 @@
     "text": "Advanced workshops\n\nReproducible Bioinformatics with Nextflow and nf-core\nReproducible research is of the utmost importance. Nextflow is workflow management software that enables the writing of scalable and reproducible scientific workflows. It can integrate various software packages and environment management systems from environment modules to Docker, Singularity, and Conda. It allows for existing pipelines written in common scripting languages to be seamlessly coupled together. Nextflow simplifies the implementation and execution of workflows on cloud or high-performance computing infrastructures.\nIn this workshop you will:\n\nBe introduced to Nextflow and execute an example pipeline.\nBe introduced to nf-core, an online repository of curated pipelines.\nLearn how to configure and customise an existing nf-core pipeline.\nGenerate metrics and reports.\n\nView the full workshop material here: Reproducible Bioinformatics Workflows with Nextflow and nf-core\n\n\nConstructing Pangenome Graphs with PGGB\nHow to construct a pangenome graph using a popular tool (PGGB), including QC, variant extraction and short-read mapping. This workshop will include:\n\nAn introduction to pangenome graphs.\nSetup guide for using the tools and data in the workshop.\nOverview of the PGGB toolkit.\nChoosing parameters to construct a graph.\nQC\nExtracting variant data.\nMapping short reads against a pangenome graph.\n\nView the full workshop material here: Unlock the Power of Pangenome Graphs\n\n\nScaling Gene Regulatory Networks Simulations\nSimulate gene regulatory networks using R and Julia. This workshop will include: - Why simulations are valuable in systems biology,\n\nWhat regulatory networks are and how they can be modelled,\nHow to use the sismonr R package to simulate a small regulatory network, and\nIntroduction to High performance computing (HPC)\nHPC architectures\nBatch systems and using a Slurm scheduler\nHPC architectures\nHow to scale up simulations on a HPC through profiling and optimisation\n\nView the full workshop material here: Scaling Gene Regulatory Networks Simulations"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Genomics Aotearoa",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Genomics Aotearoa and NeSI: Bioinformatics Training Programme",
     "section": "",
-    "text": "Genomics Aotearoa is a collaborative research platform which brings researchers together to focus on genomics and bioinformatics projects. Government-funded through an MBIE grant, Genomics Aotearoa aims to grow and develop our country’s research capabilities while carrying out leading edge research.\nGenomics Aotearoa endeavours to be an inclusive environment, and strives to…."
+    "text": "The Genomics Aotearoa Bioinformatics Training Programme aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.\nTraining is offered through a portfolio of free, interactive workshops instructed by experts. Workshop material covers basic coding for beginners to highly advanced, specialised workflows.\nWe work closely with our partners at NeSI (New Zealand eScience Infrastructure), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection.\nSince it’s inception in 2019, Genomics Aotearoa’s training programme has hosted 94 workshops reaching more than 1,800 participants."
   },
   {
-    "objectID": "about.html#who-and-what-is-genomics-aotearoa",
-    "href": "about.html#who-and-what-is-genomics-aotearoa",
-    "title": "Genomics Aotearoa",
+    "objectID": "index.html#overview-of-the-bioinformatics-training-programme",
+    "href": "index.html#overview-of-the-bioinformatics-training-programme",
+    "title": "Genomics Aotearoa and NeSI: Bioinformatics Training Programme",
     "section": "",
-    "text": "Genomics Aotearoa is a collaborative research platform which brings researchers together to focus on genomics and bioinformatics projects. Government-funded through an MBIE grant, Genomics Aotearoa aims to grow and develop our country’s research capabilities while carrying out leading edge research.\nGenomics Aotearoa endeavours to be an inclusive environment, and strives to…."
-  },
-  {
-    "objectID": "about.html#how-does-our-training-work",
-    "href": "about.html#how-does-our-training-work",
-    "title": "Genomics Aotearoa",
-    "section": "How does our training work?",
-    "text": "How does our training work?"
-  },
-  {
-    "objectID": "about.html#are-you-the-right-person-to-attend-our-training",
-    "href": "about.html#are-you-the-right-person-to-attend-our-training",
-    "title": "Genomics Aotearoa",
-    "section": "Are you the right person to attend our training?",
-    "text": "Are you the right person to attend our training?"
-  },
-  {
-    "objectID": "about.html#what-is-the-training-programme",
-    "href": "about.html#what-is-the-training-programme",
-    "title": "Genomics Aotearoa",
-    "section": "What is the training programme?",
-    "text": "What is the training programme?\nOne of the projects that Genomics Aotearoa is committed to is building capability and capacity in the fields of bioinformatics and genomics. The Bioinformatics Training Programme is the people-focused arm of this project, with the broad remit of upskilling researchers in Aotearoa."
-  },
-  {
-    "objectID": "about.html#how-does-training-work-how-do-i-sign-up",
-    "href": "about.html#how-does-training-work-how-do-i-sign-up",
-    "title": "Genomics Aotearoa",
-    "section": "How does training work? How do I sign up?",
-    "text": "How does training work? How do I sign up?\nWorkshops are advertised through the Genomics Aotearoa mailing list (sign-up link). Adverts go out, usually on a Monday morning, with a brief description of the workshop and a link to register for the workshop."
+    "text": "The Genomics Aotearoa Bioinformatics Training Programme aims to upskill the research community of Aotearoa in the rapidly growing field of bioinformatics.\nTraining is offered through a portfolio of free, interactive workshops instructed by experts. Workshop material covers basic coding for beginners to highly advanced, specialised workflows.\nWe work closely with our partners at NeSI (New Zealand eScience Infrastructure), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection.\nSince it’s inception in 2019, Genomics Aotearoa’s training programme has hosted 94 workshops reaching more than 1,800 participants."
   },
   {
     "objectID": "index.html#are-you-the-right-person-to-attend-our-training",
@@ -110,6 +54,13 @@
     "title": "Genomics Aotearoa and NeSI: Bioinformatics Training Programme",
     "section": "Are you the right person to attend our training?",
     "text": "Are you the right person to attend our training?\nIf you are doing, or will be doing, research in Aoteroa that requires bioinformatics tools or skills, you are the right person to attend our training. We have workshops suitable for all skill levels: many of our attendees have their first interaction with any form of coding or programming lanugage during our workshops.\nOur workshops are led by knowledgeable field experts and formally trained educators, with help from enthusiastic members of the research and training community. Workshops are run under the Carpentries Code of Conduct to ensure a safe, comfortable working environment.\nWhether you are an absolute beginner who has not yet started any bioinformatics, or an experienced user looking to start quickly with a specialist method, we can help. To see our list of workshops with descriptions of each, visit our Workshop Portfolio page."
+  },
+  {
+    "objectID": "index.html#recent-past-workshops",
+    "href": "index.html#recent-past-workshops",
+    "title": "Genomics Aotearoa and NeSI: Bioinformatics Training Programme",
+    "section": "Recent past workshops",
+    "text": "Recent past workshops\nIntermediate Shell for Bioinformatics (16.04.2024)\nIntermediate R for Data Analysis (10.04.2024)\nIntroduction to Bash Scripting and HPC Job Scheduler (27.03.2024)\nRNA-seq Data Analysis (20.03.2024)\nLong-read Genome Assembly (06.03.2024)\nIntroduction to R (28.02.2024)\nIntroduction to the Command Line (Bash) (14.02.2024)\nIntermediate R for Bioinformatics (09.11.2023)\nReproducible Bioinformatics with Nextflow and nf-core (11.10.2023)\nIntermediate Shell for Bioinformatics (27.09.2023)"
   },
   {
     "objectID": "meetTheTeam.html",
@@ -130,6 +81,34 @@
     "href": "meetTheTeam.html#get-to-know-the-team",
     "title": "Meet the Training Team",
     "section": "Get to know the team",
-    "text": "Get to know the team\n\nAssociate Professor Dr Michael Black (Mik Black, GA)\nCo-director of Genomics Aotearoa and head of the Bioinformatics Project. Enjoys fonts, has a dog.\n\n\nBioinformatics Training Coordinator: Tyler McInnes, GA\nI like stuff\n\n\nBioinformatics Training Coordinator: Jian Sheng Boey, GA\nSwimming is cool\n\n\nDinindu Senanayake, NeSI\nI don’t include my job title in my email signature, but Tyler’s pretty sure the whole thing burns down without me\n\n\nMatt Bixley, NeSI\nSelf-professed R nerd who can code and run a marathon at the same time, and beat you at both."
+    "text": "Get to know the team\n\nProfessor Dr Michael Black (Mik Black, GA)\nCo-director of Genomics Aotearoa and Chair of the Bioinformatics Leadership Team, Mik is deeply involved in both research and the development of bioinformatics capability and infrastructure in New Zealand. Based out of the University of Otago’s Department of Biochemistry, Mik’s research focus leans towards cancer and human health.\n\n\n\nMik Black runs a training session on Oxford Nanopore Sequencing\n\n\n\n\nBioinformatics Training Coordinator: Dr Tyler McInnes, GA\nTyler completed a PhD in the Centre for Translational Cancer Research at the University of Otago, utilising a bioinformatics skill set to analyse DNA methylation patterns in colorectal cancer. Following a passion for education, Tyler joined the Genetics Teaching Programme as a Teaching Fellow, working closely with Māori and Pacific students while developing and delivering a portfolio of material to assist student learning and improve outcomes. As a Training Coordinator for Genomics Aotearoa, Tyler coordinates a team of trainers, working with members of the community to deliver training material.\n\n\n\nTyler McInnes, training coordinator\n\n\n\n\nBioinformatics Training Coordinator: Dr Jian Sheng Boey, GA\nBoey completed a PhD in Environmental Microbiology at the University of Auckland. Boey now works as a Postdoctoral Fellow and a Training Coordinator, and has bioinformatics skill set that is both broad and deep. Boey has a personal aim of taking complicated, complex data and making it accessible. As a Training Coordinator Boey maintains the Genomics Aotearoa Github repositories and is responsible for the Metagenomics Summer School, an in-person, four-day intensive held annually at the University of Auckland.\n\n\n\nJian Sheng Boey (Boey), environmental microbiologist and training coordinator\n\n\n\n\nDinindu Senanayake, NeSI\nGenomics Support Specialist at NeSI, Dini is a ‘fixer’ - widely known and highly regarded in the New Zealand data science community, Dini has used his skills to solve a broad range of challenges. A command line expert with an eye for detail, Dini is involved in both writing and instructing many workshops.\n\n\n\nDini (right, blue t-shirt) works with Ngoni Faya (left, yellow top). Dini and Ngoni built much of the training portfolio from scratch in the early days of the programme.\n\n\n\n\nMatt Bixley, NeSI\nResearch Support Specialist Matt Bixley is an R expert, passionate trainer and self-professed data science nerd. With a background in quantitative genetics, Matt’s skills have been employed with research in primary production (AgResearch New Zealand) and human health (Department of Biochemistry, University of Otago).\n\n\n\nOutside of work, Matt is an avid member of the orienteering community and has clocked up many kilometers in the Dunedin hills."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Genomics Aotearoa",
+    "section": "",
+    "text": "Genomics Aotearoa is a collaborative research platform which brings researchers together to focus on genomics and bioinformatics projects. Projects are organsied under the three themes of Health, Environment, and Primary Production and are underpinned by a focus on bioinformatics and Te Ao Māori. Government-funded through the Strategic Science Investment Fund, Genomics Aotearoa aims to grow and develop our country’s research capabilities while carrying out cutting edge research. Genomics Aotearoa endeavours to be an inclusive environment, and strives to put Te Ao Māori (the Māori worldview) at the core of our research and training.\nYou can learn more about Genomics Aotearoa, including details about the research Projects and highlights of our recent work stories, on our main page."
+  },
+  {
+    "objectID": "about.html#who-and-what-is-genomics-aotearoa",
+    "href": "about.html#who-and-what-is-genomics-aotearoa",
+    "title": "Genomics Aotearoa",
+    "section": "",
+    "text": "Genomics Aotearoa is a collaborative research platform which brings researchers together to focus on genomics and bioinformatics projects. Projects are organsied under the three themes of Health, Environment, and Primary Production and are underpinned by a focus on bioinformatics and Te Ao Māori. Government-funded through the Strategic Science Investment Fund, Genomics Aotearoa aims to grow and develop our country’s research capabilities while carrying out cutting edge research. Genomics Aotearoa endeavours to be an inclusive environment, and strives to put Te Ao Māori (the Māori worldview) at the core of our research and training.\nYou can learn more about Genomics Aotearoa, including details about the research Projects and highlights of our recent work stories, on our main page."
+  },
+  {
+    "objectID": "about.html#what-is-the-training-programme",
+    "href": "about.html#what-is-the-training-programme",
+    "title": "Genomics Aotearoa",
+    "section": "What is the training programme?",
+    "text": "What is the training programme?\nThe training programme is part of the Bioinformatics Capability Project, a Genomics Aotearoa initiative committed to is building capability and capacity in the fields of bioinformatics and genomics. The Bioinformatics Training Programme works within the broad remit of upskilling researchers in Aotearoa."
+  },
+  {
+    "objectID": "about.html#how-does-training-work-how-do-i-sign-up",
+    "href": "about.html#how-does-training-work-how-do-i-sign-up",
+    "title": "Genomics Aotearoa",
+    "section": "How does training work? How do I sign up?",
+    "text": "How does training work? How do I sign up?\nWorkshops are advertised through the Genomics Aotearoa mailing list. Adverts go out, usually on a Monday morning, with a brief description of the workshop and a link to register for the workshop."
   }
 ]

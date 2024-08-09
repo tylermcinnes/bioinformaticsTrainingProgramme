@@ -15,7 +15,7 @@ The Genomics Aotearoa Bioinformatics Training Programme aims to upskill the rese
 
 Training is offered through a portfolio of free, interactive workshops instructed by experts. Workshop material covers basic coding for beginners to highly advanced, specialised workflows. 
 
-We work closely with our partners at NeSI (New Zealand eScience Infrastructure), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection. 
+We work closely with our partners at NeSI ([New Zealand eScience Infrastructure](https://www.nesi.org.nz/)), who have custom built a digital training platform to host workshops. When you join a training session, either in person or over zoom, you will access a digital environment with everything you need. No installations, no software requirements, all you need is an internet connection. 
 
 Since it's inception in 2019, Genomics Aotearoa's training programme has hosted 94 workshops reaching more than 1,800 participants.
 

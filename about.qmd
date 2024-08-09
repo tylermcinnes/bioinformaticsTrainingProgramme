@@ -4,16 +4,18 @@ title: "Genomics Aotearoa"
 
 ## Who, and what, is Genomics Aotearoa?
 
-Genomics Aotearoa is a collaborative research platform which brings researchers together to focus on genomics and bioinformatics projects. Government-funded through an MBIE grant, Genomics Aotearoa aims to grow and develop our country's research capabilities while carrying out leading edge research. 
+Genomics Aotearoa is a collaborative research platform which brings researchers together to focus on genomics and bioinformatics projects. Projects are organsied under the three themes of Health, Environment, and Primary Production and are underpinned by a focus on bioinformatics and Te Ao Māori. Government-funded through the Strategic Science Investment Fund, Genomics Aotearoa aims to grow and develop our country's research capabilities while carrying out cutting edge research. Genomics Aotearoa endeavours to be an inclusive environment, and strives to put Te Ao Māori (the Māori worldview) at the core of our research and training. 
 
-Genomics Aotearoa endeavours to be an inclusive environment, and strives to....
+You can learn more about Genomics Aotearoa, including details about the research [Projects](https://www.genomics-aotearoa.org.nz/our-work) and highlights of our recent [work stories](https://www.genomics-aotearoa.org.nz/our-stories), on our [main page](https://www.genomics-aotearoa.org.nz/about). 
 
 
 
 ## What is the training programme?
 
-One of the projects that Genomics Aotearoa is committed to is building capability and capacity in the fields of bioinformatics and genomics. The Bioinformatics Training Programme is the people-focused arm of this project, with the broad remit of upskilling researchers in Aotearoa. 
+The training programme is part of the Bioinformatics Capability Project, a Genomics Aotearoa initiative committed to is building capability and capacity in the fields of bioinformatics and genomics. The Bioinformatics Training Programme works within the broad remit of upskilling researchers in Aotearoa. 
 
 ## How does training work? How do I sign up? 
 
-Workshops are advertised through the Genomics Aotearoa mailing list (sign-up link). Adverts go out, usually on a Monday morning, with a brief description of the workshop and a link to register for the workshop. 
+Workshops are advertised through the [Genomics Aotearoa mailing list](https://www.genomics-aotearoa.org.nz/news-events/subscribe-our-updates). Adverts go out, usually on a Monday morning, with a brief description of the workshop and a link to register for the workshop. 
+
+

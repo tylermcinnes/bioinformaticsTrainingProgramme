@@ -15,19 +15,30 @@ All workshops are supported by **Helpers**: *knowledgeable people who answer one
 
 ## Get to know the team
 
-### Associate Professor Dr Michael Black (Mik Black, GA)
-Co-director of Genomics Aotearoa and head of the Bioinformatics Project. Enjoys fonts, has a dog. 
+### Professor Dr Michael Black (Mik Black, GA)
+Co-director of Genomics Aotearoa and Chair of the Bioinformatics Leadership Team, Mik is deeply involved in both research and the development of bioinformatics capability and infrastructure in New Zealand. Based out of the University of Otago's Department of Biochemistry, [Mik's research focus](https://www.otago.ac.nz/biochemistry/people/profile?id=352) leans towards cancer and human health. 
 
-### Bioinformatics Training Coordinator: Tyler McInnes, GA
-I like stuff
+![Mik Black runs a training session on Oxford Nanopore Sequencing](images/MikBlack.jpg)
 
-### Bioinformatics Training Coordinator: Jian Sheng Boey, GA
-Swimming is cool
+
+### Bioinformatics Training Coordinator: Dr Tyler McInnes, GA
+Tyler completed a PhD in the Centre for Translational Cancer Research at the University of Otago, utilising a bioinformatics skill set to analyse DNA methylation patterns in colorectal cancer. Following a passion for education, Tyler joined the Genetics Teaching Programme as a Teaching Fellow, working closely with Māori and Pacific students while developing and delivering a portfolio of material to assist student learning and improve outcomes. As a Training Coordinator for Genomics Aotearoa, Tyler coordinates a team of trainers, working with members of the community to deliver training material.
+
+![Tyler McInnes, training coordinator](images/TylerMcInnes.jpg){width=60%}
+
+### Bioinformatics Training Coordinator: Dr Jian Sheng Boey, GA
+Boey completed a PhD in Environmental Microbiology at the University of Auckland. Boey now works as a Postdoctoral Fellow and a Training Coordinator, and has bioinformatics skill set that is both broad and deep. Boey has a personal aim of taking complicated, complex data and making it accessible. As a Training Coordinator Boey maintains the Genomics Aotearoa Github repositories and is responsible for the Metagenomics Summer School, an in-person, four-day intensive held annually at the University of Auckland. 
+
+![Jian Sheng Boey (Boey), environmental microbiologist and training coordinator](images/JianShengBoey.jpg){width=75%}
 
 ### Dinindu Senanayake, NeSI
-I don't include my job title in my email signature, but Tyler's pretty sure the whole thing burns down without me
+Genomics Support Specialist at NeSI, Dini is a 'fixer' - widely known and highly regarded in the New Zealand data science community, Dini has used his skills to solve a broad range of challenges. A command line expert with an eye for detail, Dini is involved in both writing and instructing many workshops.
+
+![Dini (right, blue t-shirt) works with Ngoni Faya (left, yellow top). Dini and Ngoni built much of the training portfolio from scratch in the early days of the programme.](images/NgoniAndDini.jpg)
 
 ### Matt Bixley, NeSI
-Self-professed R nerd who can code and run a marathon at the same time, and beat you at both. 
+Research Support Specialist Matt Bixley is an R expert, passionate trainer and self-professed data science nerd. With a background in quantitative genetics, Matt's skills have been employed with research in primary production (AgResearch New Zealand) and human health (Department of Biochemistry, University of Otago). 
+
+![Outside of work, Matt is an avid member of the orienteering community and has clocked up many kilometers in the Dunedin hills.](images/MattBix.jpeg){fig-align="left"}
 
 

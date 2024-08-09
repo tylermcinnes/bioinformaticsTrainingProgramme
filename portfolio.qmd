@@ -4,7 +4,7 @@ title: "Workshop portfolio"
 
 ## Workshop structure, style and expectation
 
-All workshops are run under The Carpentries [Code of Conduct] (https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment. 
+All workshops are run under The Carpentries [Code of Conduct](https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html) to promote a safe and inclusive working environment. 
 
 Our training workshops are interactive live-coding events. One or more Instructors (subject matter experts who have received formal teaching training) will demonstrate by writing code in real-time while attendees follow along. Instructors provide details about what they are doing and explain the decision making and thought processes that they are going through. Attendees will follow along and work through all code at the same time as the Instructor. Short exercises, either for individuals or groups, will reinforce your learning. All workshops will also have one or more Helpers: experienced members of the training community or subject matter experts who are on hand to answer questions and solve issues as they arise. Helpers ensure that no attendee is left behind and that everyone is able to complete tasks in a timely manner. 
 

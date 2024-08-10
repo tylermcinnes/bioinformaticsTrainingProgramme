@@ -24,10 +24,14 @@ Co-director of Genomics Aotearoa and Chair of the Bioinformatics Leadership Team
 ### Bioinformatics Training Coordinator: Dr Tyler McInnes, GA
 Tyler completed a PhD in the Centre for Translational Cancer Research at the University of Otago, utilising a bioinformatics skill set to analyse DNA methylation patterns in colorectal cancer. Following a passion for education, Tyler joined the Genetics Teaching Programme as a Teaching Fellow, working closely with Māori and Pacific students while developing and delivering a portfolio of material to assist student learning and improve outcomes. As a Training Coordinator for Genomics Aotearoa, Tyler coordinates a team of trainers, working with members of the community to deliver training material.
 
+Connect with Tyler on [LinkedIn](https://www.linkedin.com/in/tyler-mcinnes-bb787bb4/) if you have an interest in any form of training.
+
 ![Tyler McInnes, training coordinator](images/TylerMcInnes.jpg){width=60%}
 
 ### Bioinformatics Training Coordinator: Dr Jian Sheng Boey, GA
 Boey completed a PhD in Environmental Microbiology at the University of Auckland. Boey now works as a Postdoctoral Fellow and a Training Coordinator, and has bioinformatics skill set that is both broad and deep. Boey has a personal aim of taking complicated, complex data and making it accessible. As a Training Coordinator Boey maintains the Genomics Aotearoa Github repositories and is responsible for the Metagenomics Summer School, an in-person, four-day intensive held annually at the University of Auckland. 
+
+Connect with Boey on [LinkedIn](https://www.linkedin.com/in/jian-sheng-boey-873a17bb/)
 
 ![Jian Sheng Boey (Boey), environmental microbiologist and training coordinator](images/JianShengBoey.jpg){width=75%}
 
@@ -38,6 +42,9 @@ Genomics Support Specialist at NeSI, Dini is a 'fixer' - widely known and highly
 
 ### Matt Bixley, NeSI
 Research Support Specialist Matt Bixley is an R expert, passionate trainer and self-professed data science nerd. With a background in quantitative genetics, Matt's skills have been employed with research in primary production (AgResearch New Zealand) and human health (Department of Biochemistry, University of Otago). 
+
+Connect with Matt on [LinkedIn](https://www.linkedin.com/in/matt-bixley-01a047255/)
+
 
 ![Outside of work, Matt is an avid member of the orienteering community and has clocked up many kilometers in the Dunedin hills.](images/MattBix.jpeg){fig-align="left"}
 
